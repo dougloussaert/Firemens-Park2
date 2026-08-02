@@ -1,0 +1,10 @@
+{
+  "name": "Firemen's Park including The Copperfield in Chaska, Minnesota",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "root",
+  "scripts": {
+    "start": "electron ."
+  }
+}
