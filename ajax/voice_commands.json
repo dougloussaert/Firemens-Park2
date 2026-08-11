@@ -1,0 +1,25 @@
+{
+    "status": "ok",
+    "voice_commands": {
+        "id": 1,
+        "language": "en-US",
+        "initial_msg": "Listening ... Say HELP for command list",
+        "listening_msg": "Listening ...",
+        "next_cmd": "next",
+        "next_msg": "Ok, going to next room",
+        "prev_cmd": "previous",
+        "prev_msg": "Ok, going to previous room",
+        "left_cmd": "left",
+        "left_msg": "Ok, looking left",
+        "right_cmd": "right",
+        "right_msg": "Ok, looking right",
+        "up_cmd": "up",
+        "up_msg": "Ok, looking up",
+        "down_cmd": "down",
+        "down_msg": "Ok, looking down",
+        "help_cmd": "help",
+        "help_msg_1": "Say NEXT / PREVIOUS to navigate between rooms",
+        "help_msg_2": "Say LEFT / RIGHT / UP / DOWN to look around",
+        "error_msg": "I do not understand, repeat please..."
+    }
+}
